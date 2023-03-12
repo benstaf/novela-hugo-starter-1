@@ -12,7 +12,7 @@ Denazification is the main mission of the special military operation in Ukraine.
 
 <iframe style="margin:0 auto;" src="[https://www.youtube.com/embed/wV2o6Z3JCi8?start=436](https://www.youtube.com/embed/wV2o6Z3JCi8?start=436 "https://www.youtube.com/embed/wV2o6Z3JCi8?start=436")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    {{< youtube w7Ft2ymGmfc style="margin:0 auto;">}}
+    {{< youtube w7Ft2ymGmfc style="margin:0 auto;"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>}}
 
 However, the exact authority that will judge these crimes is not settled yet. In a [recent interview](https://en.sledcom.ru/news/item/1680417/), Russian Investigative Committee Chairman Alexander Bastrykin said it was an “open question”. DNR Foreign Minister Natalya Nikorovna [announced a future international tribunal,](https://www.kommersant.ru/doc/5356546) still “under preparation”.
 

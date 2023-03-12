@@ -96,3 +96,5 @@ The “crime of aggression” charge against Russia should be judged by the refo
 Zelensky asks for an “all for all” prisoner exchange. Instead, each prisoner of war, irrespective of his side, shall be under individual investigation by the reformed International Criminal Court, and be released only after certification of his non-involvement in any war crime or unprofessional misconduct. I made this proposal in a [previous article](/post/russia-should-initiate-the-reform-and-join-the-international-criminal-court/).
 
 In conclusion, it’s possible to negotiate a well-crafted **hybrid solution** combining Zelensky’s “peace formula” with Putin’s “new territorial realities”. It’s up to them to grab this opportunity for peace.
+
+{{< subscribe email="[info@globcent.com](mailto:info@globcent.com)" >}}

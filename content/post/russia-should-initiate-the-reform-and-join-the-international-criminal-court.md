@@ -105,3 +105,5 @@ Afterwards, the court can consider the thousands of Azov batallion fighters capt
 ### Conclusion
 
 In conclusion, Russia can denazify Ukraine by de-westernizing global justice. ICC reform can be the first step in a larger diplomatic counter-offensive for _Global Russia,_ a renewed concept of Русский Мир. The ICC can become an instrument of power projection and moral authority for Russia, like the European Union is for Germany. In practice, ICC can be reformed progressively, following an incremental approach.
+
+{{< subscribe email="info@globcent.com" >}}

@@ -2,8 +2,7 @@
 title: The US-China race for supremacy in AI and biotech and the BRI
 date: 2021-01-26T10:41:00.000+00:00
 hero: "/images/usachina.webp"
-excerpt: To understand why Figma is the best design tool for our company, you have
-  to understand what we do. As a designer.
+excerpt: The United States and China are fiercely competing in AI and biotech
 timeToRead: 8
 authors:
 - Dennis Brotzky

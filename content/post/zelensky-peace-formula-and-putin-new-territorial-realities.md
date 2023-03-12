@@ -20,19 +20,31 @@ Presidents Zelensky and Putin remained voluntarily vague, in order to keep space
 
 Instead of adding new regions to the Russian Federation, Russia can become supportive of the restoration of Ukraine’s territorial integrity, Crimea included, under strict conditions:
 
-* Each of the provinces of Donetsk, Lugansk, Kherson, Zaporozhye, as well as the autonomous republic of Crimea, shall become constituent republics of the **Ukrainian Federation**, the new official name of Ukraine.
-* These constituent republics remain **united with the Russian world**, through both the Union State and the Eurasian Economic Union.
-* The federal city of **Sevastopol** acquires the same status as [Baikonur cosmodrome](https://cis-legislation.com/document.fwx?rgn=8648) in Kazakhstan, but permanently, and at no cost for Russia.
+Each of the provinces of Donetsk, Lugansk, Kherson, Zaporozhye, as well as the autonomous republic of Crimea, shall become constituent republics of the **Ukrainian Federation**, the new official name of Ukraine.
+
+These constituent republics remain **united with the Russian world**, through both the Union State and the Eurasian Economic Union.
+
+The federal city of **Sevastopol** acquires the same status as [Baikonur cosmodrome](https://cis-legislation.com/document.fwx?rgn=8648) in Kazakhstan, but permanently, and at no cost for Russia.
 
 ![](https://cdn-images-1.medium.com/max/800/1*HcHdtCdLEW6ZxBqp93t5AA.jpeg)
 
 This formula shares similarities with the failed [Minsk agreements](https://en.wikipedia.org/wiki/Minsk_agreements#Minsk_II,_February_2015), but some key differences make success possible:
 
-* **Crimea** was missing from the agenda of the previous Minsk negotiations, eroding trust and goodwill to implement the agreement.
-* Ukraine has now a greater incentive to respect the deal, having **lost 16% of territory**, instead of the previous 2% (Crimea excluded), which were easily ignored. These negotiable territorial losses were negligible for Ukraine. Therefore, Ukrainian leaders advertised their military operation in Donbass as a success, and as an alternative to a **comprehensive political settlement** of the Ukrainian question.
-* The **special status** of constituent republics is now clarified. It includes autonomy in trade (for example, [Motor Sich in Zaporozhye](https://ssu.gov.ua/novyny/sbu-zatrymala-prezydenta-promyslovoho-hihanta-motor-sich-za-pidozroiu-u-roboti-na-rf)), language, education, culture (naming of streets), citizenship and immigration, and security.
-* In security policy, a **Federal Guard** is created, replacing the “National Guard of Ukraine”, and incorporating all the batallions of the Donetsk and Lugansk People’s Republics. The Federal Guard is tasked with the monitoring of the Ukrainian Federation external borders. There are **no border crossings** between the Russian and Ukrainian Federations in Donetsk, Lugansk and Crimea republics. The same border-free arrangement already exists between the Russian Federation and the Republic of Belarus, both parties of the Union State.
-* The organizations of the Union State and Eurasian Economic Union are also deeply reformed, becoming a **decentralized USSR 2.0**, with some administration buildings relocated to Donetsk, Mariupol and Simferopol. None of them remain in Moscow. These organizations adopt the 1945 **Victory Banner** as their official flag.
+**Crimea** was missing from the agenda of the previous Minsk negotiations, eroding trust and goodwill to implement the agreement.
+
+Ukraine has now a greater incentive to respect the deal, having **lost 16% of territory**, instead of the previous 2% (Crimea excluded), which were easily ignored. These negotiable territorial losses were negligible for Ukraine. 
+
+Therefore, Ukrainian leaders advertised their military operation in Donbass as a success, and as an alternative to a **comprehensive political settlement** of the Ukrainian question.
+
+The **special status** of constituent republics is now clarified. It includes autonomy in trade (for example, [Motor Sich in Zaporozhye](https://ssu.gov.ua/novyny/sbu-zatrymala-prezydenta-promyslovoho-hihanta-motor-sich-za-pidozroiu-u-roboti-na-rf)), language, education, culture (naming of streets), citizenship and immigration, and security.
+
+In security policy, a **Federal Guard** is created, replacing the “National Guard of Ukraine”, and incorporating all the batallions of the Donetsk and Lugansk People’s Republics. The Federal Guard is tasked with the monitoring of the Ukrainian Federation external borders. 
+
+There are **no border crossings** between the Russian and Ukrainian Federations in Donetsk, Lugansk and Crimea republics. The same border-free arrangement already exists between the Russian Federation and the Republic of Belarus, both parties of the Union State.
+
+The organizations of the Union State and Eurasian Economic Union are also deeply reformed, becoming a **decentralized USSR 2.0**, with some administration buildings relocated to Donetsk, Mariupol and Simferopol. None of them remain in Moscow. 
+
+These organizations adopt the 1945 **Victory Banner** as their official flag.
 
 ![](https://cdn-images-1.medium.com/max/800/1*RuawwdoL-5JldN5h895t-A.jpeg)
 

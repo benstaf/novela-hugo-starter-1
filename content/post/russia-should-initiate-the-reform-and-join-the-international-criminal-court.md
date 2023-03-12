@@ -3,8 +3,8 @@ timeToRead: 6
 authors:
 - Dennis Brotzky
 title: Russia should initiate the reform - and join - the International Criminal Court
-excerpt: International justice can be instrumental to rebuild ties between Russia,
-  Ukraine, the West and the Rest
+excerpt: International justice can facilitate the reconciliation between Russia, Ukraine,
+  the West, and the Rest
 date: 2022-05-21T22:00:00.000+00:00
 hero: "/images/putindenazification.webp"
 

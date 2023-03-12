@@ -2,7 +2,8 @@
 title: The US-China race for supremacy in AI and biotech and the BRI
 date: 2021-01-26T10:41:00.000+00:00
 hero: "/images/usachina.webp"
-excerpt: The United States and China are fiercely competing in AI and biotech
+excerpt: The United States and China are fiercely competing in AI and biotech, and
+  the Belt and Road Initiative can play a role
 timeToRead: 8
 authors:
 - Dennis Brotzky

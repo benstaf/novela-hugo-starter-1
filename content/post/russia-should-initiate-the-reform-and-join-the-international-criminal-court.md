@@ -8,21 +8,9 @@ date: 2022-05-21T22:00:00+00:00
 hero: "/images/putindenazification.webp"
 
 ---
-Denazification is the main stated mission of the Russian special military operation in Ukraine:
+Denazification is the main mission of the special military operation in Ukraine. The goal is to bring to justice the radical neo-nazis responsible for crimes in Ukraine in the last 8 years:
 
-![](https://miro.medium.com/v2/resize:fit:700/0*iEdUEvCVI5PtXVV2.jpeg =700x415)
-
-The goal is to bring to justice the radical neo-nazis responsible for crimes in Ukraine in the last 8 years:
-
-<iframe style="margin:0 auto;" src="[https://www.youtube.com/embed/wV2o6Z3JCi8?start=436](https://www.youtube.com/embed/6-Msk4AA79s "https://www.youtube.com/embed/6-Msk4AA79s")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Russia should take the leadership of International Criminal Court reform
-
-Denazification is the main mission of the special military operation in Ukraine:
-
-![](https://cdn-images-1.medium.com/max/800/0*iEdUEvCVI5PtXVV2.jpeg)
-
-The goal is to bring to justice the radical neo-nazis responsible for crimes in Ukraine in the last 8 years:
+<iframe style="margin:0 auto;" src="[https://www.youtube.com/embed/wV2o6Z3JCi8?start=436](https://www.youtube.com/embed/wV2o6Z3JCi8?start=436 "https://www.youtube.com/embed/wV2o6Z3JCi8?start=436")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 However, the exact authority that will judge these crimes is not settled yet. In a [recent interview](https://en.sledcom.ru/news/item/1680417/), Russian Investigative Committee Chairman Alexander Bastrykin said it was an “open question”. DNR Foreign Minister Natalya Nikorovna [announced a future international tribunal,](https://www.kommersant.ru/doc/5356546) still “under preparation”.
 

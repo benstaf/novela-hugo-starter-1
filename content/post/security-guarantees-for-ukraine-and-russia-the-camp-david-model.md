@@ -23,15 +23,15 @@ My recommendation is to permanently sub-divide Ukrainian territory into three co
 
 ![](https://cdn-images-1.medium.com/max/800/0*gBgACElfT4mPCn2O.jpeg)
 
-* **NATO zone**: Ukraine mainland, where the Kyiv Security Compact is applied, and where Leopard tanks and F-16 fighter jets are stationed. That’s the new military realities that Russia needs to accept.
+**- NATO zone**: Ukraine mainland, where the Kyiv Security Compact is applied, and where Leopard tanks and F-16 fighter jets are stationed. That’s the new military realities that Russia needs to accept.
 
 ![](https://cdn-images-1.medium.com/max/800/0*-Rqal5wL3K3PMFW0.jpeg)
 
-* **CSTO zone**: territories currently under Russian control. They withdraw their troops, and replace them with a [CSTO peacekeeping force](https://jscsto.odkb-csto.org/en/voennaya-sostavlyauschaya-odkb/msodkb.php), without Russian participation. That’s the new territorial realities that Ukraine needs to accept.
+**- CSTO zone**: territories currently under Russian control. They withdraw their troops, and replace them with a [CSTO peacekeeping force](https://jscsto.odkb-csto.org/en/voennaya-sostavlyauschaya-odkb/msodkb.php), without Russian participation. That’s the new territorial realities that Ukraine needs to accept.
 
 ![](https://cdn-images-1.medium.com/max/800/0*5Cq_Oz8jDSa9ip35.jpeg)
 
-* **UN-neutral zone**: Ukraine demilitarizes all regions bordering territories with Russian troops: Chernihiv, Sumy, Kharkiv, Dnipro, Mykolaiv, Odessa, in exchange of Russian withdrawal from the CSTO zone. In this buffer zone, security is guaranteed by a **UN peacekeeping force**, which can include Russia’s biggest arms buyers, such as India, China, Algeria or Egypt, and moderate NATO countries, such as Turkey or Hungary.
+**- UN-neutral zone**: Ukraine demilitarizes all regions bordering territories with Russian troops: Chernihiv, Sumy, Kharkiv, Dnipro, Mykolaiv, Odessa, in exchange of Russian withdrawal from the CSTO zone. In this buffer zone, security is guaranteed by a **UN peacekeeping force**, which can include Russia’s biggest arms buyers, such as India, China, Algeria or Egypt, and moderate NATO countries, such as Turkey or Hungary.
 
 ![](https://cdn-images-1.medium.com/max/800/0*4PqXRCKmvM5SIq2y.jpeg)
 
@@ -47,8 +47,9 @@ At that time, the Rasmussen plan [failed to gather consensus](https://www.ispion
 
 In my proposal, local elections are irrelevant. They can’t change the final status, constitutionally enshrined, based on **two recognitions**:
 
-* the Russian Federation recognizes the **1991 borders** and **European integration aspirations** of Ukraine, by following legal procedures defined in [Chapter 9 of the Constitution of the Russian Federation](http://kremlin.ru/acts/constitution/item#chapter9).
-* In exchange, Ukraine recognizes the existing **reality of Eurasian integration** of Crimea, Kherson, Zaporozhye, Donetsk and Lugansk regions into the Eurasian Economic Union, by following legal procedures defined in [Chapter XIII of the Constitution of Ukraine](https://www.president.gov.ua/ua/documents/constitution/konstituciya-ukrayini-rozdil-xiii).
+\- the Russian Federation recognizes the **1991 borders** and **European integration aspirations** of Ukraine, by following legal procedures defined in [Chapter 9 of the Constitution of the Russian Federation](http://kremlin.ru/acts/constitution/item#chapter9).
+
+\- In exchange, Ukraine recognizes the existing **reality of Eurasian integration** of Crimea, Kherson, Zaporozhye, Donetsk and Lugansk regions into the Eurasian Economic Union, by following legal procedures defined in [Chapter XIII of the Constitution of Ukraine](https://www.president.gov.ua/ua/documents/constitution/konstituciya-ukrayini-rozdil-xiii).
 
 ![](https://cdn-images-1.medium.com/max/800/0*xTnz20WAH0xetLkx.jpeg)
 

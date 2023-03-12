@@ -5,7 +5,7 @@ title: Russia should initiate the reform and join the International Criminal Cou
 excerpt: International justice can be instrumental to rebuild ties between Russia,
   Ukraine, the West and the Rest
 date: 2022-05-21T22:00:00+00:00
-hero: ''
+hero: "/images/putindenazification.webp"
 draft: true
 
 ---

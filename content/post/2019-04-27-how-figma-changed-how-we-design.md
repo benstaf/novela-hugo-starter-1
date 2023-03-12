@@ -1,249 +1,94 @@
 ---
-title: Getting started wtih Novela
-date: 2019-04-27
-hero: /images/hero-4.jpg
-excerpt: To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer.
+title: The US-China race for supremacy in AI and biotech - Which role for the Belt
+  and Road Initiative ?
+date: 2021-01-26T10:41:00+00:00
+hero: "/images/hero-4.jpg"
+excerpt: To understand why Figma is the best design tool for our company, you have
+  to understand what we do. As a designer.
 timeToRead: 8
 authors:
-  - Dennis Brotzky
+- Dennis Brotzky
 
 ---
+The United States and China are fiercely competing in AI and biotech. These technologies are increasingly determinant for global leadership.
 
-To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
+Debates often focus on head-to-head comparisons between the two giants, in terms of scientific output or economic investments. On the other hand, third-party countries tend to be overlooked, although they represent the remaining 77% of the world population.
 
-Narative is a studio based in 3 different cities around the world; so right off the bat we’re already facing a challenge; geography.
+However, to supplant the USA as the first global superpower, China is betting on the Belt and Road Initiative (一带一路), an international trade project, and foreign policy vision, reaching out to the rest of the world. BRI revives the glorious silk roads of the past:
 
-We came across Figma a few weeks before engaging in our first project. It’s worth noting that, I’ve been using Sketch for several years before Narative, and getting out of your comfort zone can be scary.
+![oldsilk](https://melwy.com/static/8457077f979389158f64c72ba64f0834/d3d3d/oldsilk.jpg "oldsilk")
 
-Just thinking about re-learning a new tool, transferring past designs, plugins and projects I’ve been working on for years, started to give me anxiety.
-Luckily, the transition was more than natural. Working on Figma was second-nature and, two weeks in, it became my daily driver. In three weeks, I became a fan, and today I am probably an advocate. Here are eight reasons why.
+In their modern version, New Silk Roads run over large parts of the globe:
 
-## Easy migration
+![newsilk](https://melwy.com/static/4301168443ad2b25a33e4208ada013e9/9ea69/newsilk.jpg "newsilk")
 
-Not much to say here. You literally just have to copy your art-boards — or as they call it, frames — then paste them into Figma. Simple as that. The platform is very forgiving and prepared for transitions.
+The first phase of the project, estimated at 8 Trillion US Dollars, is deploying new infrastructures : roads, railways and seaports.
 
-## Zero file management
+![road](https://melwy.com/static/db8bf6085ed245af0b2ec5a856af2de7/cb46c/road.jpg "road") ![train](https://melwy.com/static/4ccc33c61ba860383920f7527602c055/ee5b7/train.jpg "train") ![sea](https://melwy.com/static/6603f9a63c0ec115df2039e363cf8e7a/61023/sea.jpg "sea")
 
-What does that mean? Sketch, Framer, Adobe XD or even Photoshop are native apps where you inherently need to save your work. Some tools have auto-save, of course, but you still end up with hundreds of megabytes and even gigabytes on your drive. And yes, if you lose your disk, break your computer somehow, or have your dog eat your SSD, you will lose your files completely.
+However, the project doesn’t stop there. There’s also a **digital silk road** for tech infrastructures: 5G, optic-fiber cables, and data centers.
 
-Not with Figma. Not having to command+s is a big deal. Figma is a web-based software, meaning you never need to upload, download, or worry about versions again. Imagine a Google Docs for design, keeping all my projects organized in one app, in the cloud. One single source of truth for design files.
+![5g](https://melwy.com/static/c1a5296828e737ea589f5b8e838e80dc/61023/5g.jpg "5g")
 
-I probably saved more than 30GB of disk space by migrating my projects to Figma, and now I can access them from anywhere.
+Likewise, there’s a **health silk road** (健康丝绸之路), rising with the pandemic, which involves masks, vaccines, and their clinical trials.
 
-## Figma is platform-agnostic
+![mask](https://melwy.com/static/b0361510ec05f02d63d52469386d7ecf/919db/mask.jpg "mask")
 
-One of the best features of a web-based software is the fact you’re no longer stuck with an operating system. You can run it right from the browser or from their native app, that’s essentially a wrapper. I’m able to seamlessly start a project on my iMac Pro at my home office, and continue on my Surface Book 2 on the go. That’s huge.
+However, those initiatives mostly involve large companies: Huawei, AliBaba, SinoPharm and CanSino. Belt and Road initiatives involving smaller players still remain in their infancy.
 
-Additionally, you’ll always have the latest version, with no need to download painful software updates. The “cloud” is finally making sense in 2018.
+China didn’t elaborate a strong **Startup Silk Road**, or **Venture Capital Silk Road** yet, although they could be key ingredients to achieve AI and biotech supremacy faster.
 
-## Performance
+To fill this gap, we launched **ChingHub** ([www.chinghub.com](https://chinghub.com/)), a platform connecting +1000 investors from China to deep tech startups around the world.
 
-You may be thinking that running a full-fledged design app from the web has huge performance drawbacks. I thought the same, but was I ever wrong.
+We are initially focusing on building a **precision medicine silk road**, at the intersection of AI and biotech. We are sourcing deals globally (including within the United States).
 
-I’ve always had full-spec computers running Sketch, still, ever so often I’d run into performance hiccups or memory drainage. That’s never happened with Figma, which is pretty magical.
+Go to [ChingHub.com](https://chinghub.com/) to submit a project, or join as an investor.
 
-I continually forget that I’m running a huge project in a “webpage”, and as soon as I remember, it always blows my mind because of how fast it is.
-Components and styles
-This is a feature that most product design tools have, but for some reason, it’s slightly more polished on Figma.
+![chingen](https://melwy.com/static/cb2db7bbf3212d75a0369d2b11c38338/0d92a/chingen.jpg "chingen")
 
-At Narative, as we constantly change projects, styles and teams, one of the best ways for us to keep in sync is by publishing components. Even in different projects, or “files”, we can load components and libraries from previous projects, allowing us to be extremely efficient and consistent.
+![chingcn](https://melwy.com/static/0099c602add1eed159c7ac89af6e2e0e/2862a/chingcn.jpg "chingcn")
 
-Building components such as buttons, modals, and form fields is awesome. Say you build 30 pages using one single library of components, and if you ever decide to update the style of a button from this library, for example, you simply update the master and, voilà — all 30 pages will have the brand new and updated button.
+## Chinese Silk Road vs US brain drain
 
-## Our engineers love it
+A silk road approach can disrupt US dominance in AI and biotech. Several analysts identify inflow of top talent (i.e. brain drain) as America’s best asset for preserving supremacy (see [here](https://www.belfercenter.org/publication/china-beating-us-ai-supremacy) and [here](https://www.foreignaffairs.com/articles/united-states/2020-06-19/china-wont-win-race-ai-dominance)). Their idea is that while China can mobilise the largest population, with 1.5 billion people, the US can recruit talent from all 7.7 billion people on Earth, and pick the best and the brightest.
 
-From an engineering perspective, it’s extremely efficient having our projects centralized in one platform. In the past, every time I updated a project, I had to manually sync my designs through a plugin into a third-party “inspection” platform where engineers would have access to. Although this method works, it’s not ideal in a fast-paced project development.
+For example, we can see that [US affiliations still largely dominate](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/) accepted papers at the NeurIPS AI conference, a rough metric for top-20% quality of AI research:
 
-With Figma, engineers see changes in real time, allowing them to participate in every step of the project, from wireframes to design.
+![talentus](https://melwy.com/static/8bc484d29f5101792b552ea210dad0da/73926/talentus.jpg "talentus")
 
-Design Programmatically is key for us, so our engineers can simultaneously work on developing components while us, designers, progress with the design creation and copywriters progress with content. We essentially have all of the tools we need to create dynamic, digital products in one place.
+However, most of this US talent comes from abroad, and ironically, the biggest source is China!
 
-## Tabs!
+![uschinaolympiad](https://melwy.com/static/fa27e1bbe7daf5e389eb9561a6ab1cdd/61023/uschinaolympiad.jpg "uschinaolympiad")
 
-One of my favourite features, and probably something I took for granted in the past is the ability to open projects in tabs.
+![talentor](https://melwy.com/static/dab66a2bdedde00f46f157e2e0dd1102/73926/talentor.jpg "talentor")
 
-And damn. It's fast.
-And damn. It's fast.
-Like a browser, the Figma app allows you to have several tabs open so you can jump back and forth between pages rather than having multiple windows messing up your desktop. I probably increased my efficiency by 50% or more being able to have several projects open, without eating my RAM alive.
+By looking at talent flows, we can see this brain drain mostly happens at the graduate school level:
 
-## Power to our team
+![flow](https://melwy.com/static/2a1f6a3c0022d8f4b1916980fe742d75/19914/flow.jpg "flow")
 
-Back to my initial point, collaboration is key for a company like Narative. Especially with a team overseas. Working on Figma, however, regardless of where you are in the world, it’s like working right next to each other.
+Undergrad students around the world get into US grad schools for mainly two reasons:
 
-It’s tough to express just how efficient we’ve become, with everyone having access to one single file, at the same time.
-I design simultaneously with our copywriter, while our developer watches our progress, providing relevant comments. Again, it’s magical. Exporting images, SVGs, colors, and even CSS styles, is as simple as right-clicking and copying.
+* **funding** their PhD
+* getting a US **work permit** after graduation
 
-## Conclusion
+Access to the US job market remains in high demand because the **pay gap** with the rest of the world is huge:
 
-Figma is not only a full-fledged design tool but the best I’ve used in years. It speaks volumes regarding just how much its creators considered the future.
+![tablesal](https://melwy.com/static/1c0b9611e07136484ef498198b914bc3/cf91d/tablesal.jpg "tablesal")
 
-Witnessing forward-thinking products is not only refreshing but extremely inspirational to know there are teams working hard to support companies such as Narative to succeed. From drafting our first ideas to real prototypes, all while reducing the friction of turning visual concepts into code.
+To dislodge the United States on the premium talent market, China can design appropriate **incentives**. By investing within the Mainland, and along silk roads, China can dry brain drain at the source. Talent will have less reasons to move to America, when Chinese money improve local opportunities. Instead of the US brain drain model, China can propose an alternative **brain exchange** model, maximizing **tech transfers** to the Mainland.
 
-If you're still not sure, you should definitely try it out. It's free.
+Moreover, to improve the quality of their deal flow, Chinese investors can benefit from online education and distance learning. Nowadays, it’s no longer necessary to move to Stanford to receive a Stanford education. That’s why our ChingHub platform includes an **online grad school**, to incubate new projects.
 
-```js
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "@emotion/styled";
+The American approach to technology remain very local and territorial. For example, a Silicon Valley VC will often be reluctant to deal with a startup just based in the Eastern part of San Francisco Bay. Likewise, our American competitor in immuno-oncology, the Parker Institute for Cancer Immunotherapy, restricts funding to a [few established US institutions](https://www.parkerici.org/network/research-institutions/).
 
-import * as SocialIcons from "../../icons/social";
-import mediaqueries from "@styles/media";
+On the other hand, the Chinese approach is more **scalable**. It can leverage various silk roads to find the next big thing, even deep into the African continent, like AliBaba founder Jack Ma did in his Africa’s Business Heroes show:
 
-const icons = {
-  dribbble: SocialIcons.DribbbleIcon,
-  linkedin: SocialIcons.LinkedinIcon,
-  twitter: SocialIcons.TwitterIcon,
-  facebook: SocialIcons.FacebookIcon,
-  instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon,
-};
+In an industry like precision oncology, being more **inclusive** can provide a competitive advantage over American elitism, because patient enrollment is often the bottleneck that slows down clinical research.
 
-const socialQuery = graphql`
-  {
-    allSite {
-      edges {
-        node {
-          siteMetadata {
-            social {
-              name
-              url
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+China already used this health silk road when facing Covid-19 patient shortage in the Mainland, by testing vaccines abroad in Indonesia or Brazil. This valuable experience can be expanded to other areas, like precision oncology.
 
-function SocialLinks({ fill = "#73737D" }: { fill: string }) {
-  const result = useStaticQuery(socialQuery);
-  const socialOptions = result.allSite.edges[0].node.siteMetadata.social;
+Here is a table summarizing differences between ChingHub and its American counterpart PICI:
 
-  return (
-    <>
-      {socialOptions.map(option => {
-        const Icon = icons[option.name];
+![chingpici](https://melwy.com/static/237f58939086f2bcbfb3a2c8abb69c84/cabe1/chingpici.jpg "chingpici")
 
-        return (
-          <SocialIconContainer
-            key={option.name}
-            target="_blank"
-            rel="noopener"
-            data-a11y="false"
-            aria-label={`Link to ${option.name}`}
-            href={option.url}
-          >
-            <Icon fill={fill} />
-          </SocialIconContainer>
-        );
-      })}
-    </>
-  );
-}
-```
-
-This is another paragraph after the code block.
-
-## This is a secondary heading
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-
-In this article I’ll explain how Gatsby’s lifecycle works and what the Gatsby specific files are for.
-
-One of the challenges I had when learning Gatsby was trying to understand the Gatsby lifecycle. React introduced me to the concept of a Component Lifecycle, but when I started learning Gatsby I felt at a loss again. I remember looking through example repositories and seeing Gatsby specific files in every project and thinking to myself, “What are these files for? Why are gatsby-node.js, gatsby-browser.js, and gatsby-ssr.js generated in the default starter kit? Can I really delete these files?”
-
-In this article I’ll explain the how Gatsby’s lifecycle works and what the Gatsby specific files are for.
-
-## How does Gatsby work?
-
-To understand what these files are for, we must first understand how Gatsby works. Gatsby is a static site generator that pulls data from sources you provide and generates a website/app for you.
-
-Gatsby requires Node to be installed to run the Bootstrap and Build sequences. Under the hood, Gatsby uses Webpack to build and start a development server amongst other things.
-
-### Step 1
-
-During the Bootstrap sequence, which occurs every time you run \$ gatsby develop, there are about 20 events that fire ranging from validating your gatsby-config.js to building the data schemas and pages for your site. For example, the Bootstrap sequence is where Gatsby will create pages. If you want an in depth look of all 20 Bootstrap steps Swyx shared a fantastic Gist that goes into more detail.
-
-### Step 2
-
-The Build sequence is very similar to the Bootstrap sequence, except it’s run with production optimizations and will output static files ready for deployment. Think of it as building your React application in production mode vs development.
-
-### Step 3
-
-And finally, once the generated files are deployed, Gatsby lives in the browser. Gatsby cleverly generates a static website that turns into a web app after initial load, which extends the lifecycle to the browser.
-
-What’s important to remember is that Gatsby’s lifecycle can be aggregated into 3 main sequences:
-
-- Bootstrap
-- Build
-- Browser
-- These three sequences makeup the Gatsby lifecycle.
-
-Parts of the lifecycle are visible when running $ gatsby develop
-A peak into the Gatsby lifecycle when running $ gatsby develop
-A peak into the Gatsby lifecycle when running \$ gatsby develop
-If you’re familiar with React and the component lifecycle, Gatsby’s lifecycle is almost the same concept. Just like React’s lifecycle, Gatsby exposes hooks for developers to build on top of. Those lifecycle hooks are accessed through Gatsby specific files such as gatsby-node.js, gatsby-browser.js and gatsby-ssr.js.
-
-What are the Gatsby specific files for?
-gatsby-config.js
-A place to put all your site configurations such as plugins, metadata, and polyfills. This file is the blueprint of your application and is where Gatsby really shines with its plugin system. When you run $ gatsby develop or $ gatsby build gatsby-config.js is the first file to be read and validated.
-
-Most of your time spent in gatsby-config.js will likely revolve around source plugins, image plugins, offline support, styling options, and site metadata.
-
-gatsby-node.js
-Gatsby runs a Node process when you develop or build your website and uses Webpack under the hood to spin up a development server with hot reloading. During the Node process Gatsby will load plugins, check the cache, bootstrap the website, build the data schema, create pages, and deal with some configuration and data management.
-
-Everything that occurs during the Bootstrap and Build sequences occurs in gatsby-node.js. This means it’s the perfect place to create pages dynamically based off data from a source plugin or modify Gatsby’s Webpack or Babel configs.
-
-For example, if you want to move some files manually, such as a Netlify \_redirects file, a good place to do it is in your gatsby-node.js file at the onPostBuild lifecycle hook.
-
-From experience, most of my time has revolved around handling data and building pages in gatsby-node.js. This file quickly becomes the piping of your entire website.
-
-## Examples of gatsby-node.js hooks:
-
-- createPages
-- onCreateBabelConfig
-- onCreateWebpackConfig
-- onPostBuild
-- gatsby-ssr.js
-
-When you think Server Side Rendering you think of a server that takes in requests and dynamically builds pages and sends it to the client. Gatsby doesn’t do that, but it does server side render — it generates all the pages during build time.
-
-Naturally, gatsby-ssr.js allows developers to hook into that lifecycle. In my experience, most use cases revolve around injecting CSS, HTML, or Redux state information into the generated output. For example, if you need to insert third party scripts such as Analytics Tracking or a Pixel it can be done on the onRenderBody gatsby-ssr.js hook.
-
-## Examples of gatsby-ssr.js hooks:
-
-- onPreRenderHTML
-- onRenderBody
-- replaceRenderer
-- gatsby-browser.js
-
-Gatsby is a static site that loads a dynamic application after initial load, which means you get the benefits of a static site in a web application. gatsby-browser.js provides convenient hooks to deal with app loading, route updates, service worker updates, scroll positioning, and more.
-
-Everything that occurs after your static site has loaded can be hooked in gatsby-browser.js. For apps that I’ve built, gatsby-browser.js was mostly used for keeping track of routes, scroll positioning, and sending analytics events.
-
-## Examples of gatsby-browser.js hooks:
-
-- onClientEntry
-- onRouteUpdate
-- onServiceWorkerInstalled
-- registerServiceWorker
-- shouldUpdateScroll
-
-## Conclusion
-
-Gatsby is built with React at its core and shares a common API pattern, the lifecycle. This lifecycle gives developers access to key moments in their website’s process through specific hooks. For example, adding analytics can be achieved through the Browser lifecycle hook onClientEntry. Gatsby reserves specific filenames as an entry point to access every lifecycle; these files are named gatsby-node.js, gatsby-ssr.js and gatsby-browser.js.
-
-Without the Gatsby lifecycle, it would be impossible to customize and modify your project beyond the base configuration, leaving developers with a rigid and poor developer experience. This power and flexibility has helped us build amazing web projects for clients like Hopper!
-
-Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
+Will the pandemic be a wake-up call for America? Future will tell.

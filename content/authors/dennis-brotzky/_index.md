@@ -1,5 +1,5 @@
 ---
-title: Globcent
+title: Mostapha Benhenda
 bio: ''
 avatar: "/images/dennis-brotzky.jpg"
 featured: false

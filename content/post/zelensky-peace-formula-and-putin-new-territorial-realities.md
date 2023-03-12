@@ -21,11 +21,11 @@ Presidents Zelensky and Putin remained voluntarily vague, in order to keep space
 
 Instead of adding new regions to the Russian Federation, Russia can become supportive of the restoration of Ukraine’s territorial integrity, Crimea included, under strict conditions:
 
-Each of the provinces of Donetsk, Lugansk, Kherson, Zaporozhye, as well as the autonomous republic of Crimea, shall become constituent republics of the **Ukrainian Federation**, the new official name of Ukraine.
+\- Each of the provinces of Donetsk, Lugansk, Kherson, Zaporozhye, as well as the autonomous republic of Crimea, shall become constituent republics of the **Ukrainian Federation**, the new official name of Ukraine.
 
-These constituent republics remain **united with the Russian world**, through both the Union State and the Eurasian Economic Union.
+\- These constituent republics remain **united with the Russian world**, through both the Union State and the Eurasian Economic Union.
 
-The federal city of **Sevastopol** acquires the same status as [Baikonur cosmodrome](https://cis-legislation.com/document.fwx?rgn=8648) in Kazakhstan, but permanently, and at no cost for Russia.
+\- The federal city of **Sevastopol** acquires the same status as [Baikonur cosmodrome](https://cis-legislation.com/document.fwx?rgn=8648) in Kazakhstan, but permanently, and at no cost for Russia.
 
 ![](https://cdn-images-1.medium.com/max/800/1*HcHdtCdLEW6ZxBqp93t5AA.jpeg)
 

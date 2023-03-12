@@ -2,7 +2,7 @@
 title: Globcent
 bio: ''
 avatar: "/images/dennis-brotzky.jpg"
-featured: true
+featured: false
 social:
 - title: unsplash
   url: https://unsplash.com

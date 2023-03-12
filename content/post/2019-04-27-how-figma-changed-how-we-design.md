@@ -91,3 +91,5 @@ Here is a table summarizing differences between ChingHub and its American counte
 ![chingpici](https://melwy.com/static/237f58939086f2bcbfb3a2c8abb69c84/cabe1/chingpici.jpg "chingpici")
 
 Will the pandemic be a wake-up call for America? Future will tell.
+
+{{< subscribe email="info@globcent.com" >}}

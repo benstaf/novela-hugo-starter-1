@@ -6,7 +6,6 @@ excerpt: It’s possible to negotiate a hybrid solution combining Zelensky’s �
   formula” with Putin’s “new territorial realities”
 date: 2023-01-07T23:00:00+00:00
 hero: "/images/ukreueeu.webp"
-draft: true
 
 ---
 Ukrainian President Vladimir Zelensky proposed a [Peace Formula](https://www.president.gov.ua/en/news/ukrayina-zavzhdi-bula-liderom-mirotvorchih-zusil-yaksho-rosi-79141) in 10 points to end the conflict. It was rejected by Russian Foreign Minister [Sergey Lavrov](https://www.reuters.com/world/europe/russias-lavrov-rejects-zelenskiys-peace-formula-ria-2022-12-29/), but Russian President Vladimir Putin was more evasive, requiring Kiev to “take into account the [new territorial realities](http://kremlin.ru/events/president/news/70328)”.

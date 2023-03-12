@@ -1,14 +1,13 @@
 ---
-timeToRead: 0
-authors: 
+timeToRead: 5
+authors:
 - Dennis Brotzky
 title: Security Guarantees for Ukraine and Russia - the Camp David model
 excerpt: 'Mutual security guarantees between Ukraine and Russia can be modeled after
   the Camp David Accords of 1978 between Egypt and Israel, which shaped the Rules-Based
   International Order '
-date: 2023-02-09T23:00:00+00:00
+date: 2023-02-09T23:00:00.000+00:00
 hero: "/images/natoukr.webp"
-draft: true
 
 ---
 In the Zelensky Peace Formula, security guarantees for Ukraine mostly come from the Kyiv Security Compact (point 9). This framework, designed by former NATO Secretary General Anders Fogh Rasmussen, legally guarantees military supplies from NATO countries, without waiting for full NATO membership.

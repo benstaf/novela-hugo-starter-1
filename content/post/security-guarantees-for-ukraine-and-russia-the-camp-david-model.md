@@ -1,6 +1,7 @@
 ---
 timeToRead: 0
-authors: []
+authors: 
+- Dennis Brotzky
 title: Security Guarantees for Ukraine and Russia - the Camp David model
 excerpt: 'Mutual security guarantees between Ukraine and Russia can be modeled after
   the Camp David Accords of 1978 between Egypt and Israel, which shaped the Rules-Based

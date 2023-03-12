@@ -5,7 +5,7 @@ authors:
 title: Security Guarantees for Ukraine and Russia - the Camp David model
 excerpt: 'Security guarantees can be modeled after the Camp David Accords between
   Egypt and Israel, which shaped the Rules-Based International Order '
-date: 2023-02-09T23:00:00.000+00:00
+date: 2023-02-10T12:00:00+00:00
 hero: "/images/natoukr.webp"
 
 ---

@@ -49,6 +49,8 @@ Imagine asking a country like France to join an international court based in Bor
 
 Location is not only a symbolic question, it also has practical implications. The court needs to avoid pressures from any party involved. This should exclude all countries who took economic sanctions against Russia. Those sanctions are a “total economic war”, according to French economic minister Bruno Le Maire:
 
+{{< youtube Ntzacqlm-Ac >}}
+
 This still leaves a lot of options for choosing a neutral territory. Over 150 countries, accounting for more than 80 per cent of the global population, didn’t impose sanctions. Russian isolation is a Western illusion:
 
 ![](https://cdn-images-1.medium.com/max/800/0*u1krBxM6J1xDdTXo.jpeg)
@@ -92,6 +94,8 @@ In practice, it won’t be enough to reach a global consensus on ICC reform. The
 For example, some prisoners of war can be sent to the international court for experimental purposes, instead of being exchanged and liberated. They can be judged for minor offenses. A zero tolerance policy can be applied to any breach of the rules of war.
 
 Low-stake, high-visibility cases are the best to start with. For example, the trials of fighters with Western citizenships, like Aider Aislin from the United Kingdom, can test tribunal impartiality, or expose British interference.
+
+{{< youtube A3aXbC1Gw_E >}}
 
 Afterwards, the court can consider the thousands of Azov batallion fighters captured in Azovstal. They always asked for third-party intervention, so their “evacuation” to an international denazification tribunal, in Africa or Asia, is a possible answer to their call.
 

@@ -92,3 +92,5 @@ For example, former Ukrainian President Petro Poroshenko proposed an alternative
 ### Mutual security guarantees in the Rules-Based International Order
 
 In conclusion, mutual security guarantees between Ukraine and Russia can be modeled after the Camp David Accords of 1978 between Egypt and Israel. This landmark peace agreement shaped the **Rules-Based International Order** that Ukraine and their Euro-Atlantic partners vowed to respect and defend. Therefore, the West can logically accept the Camp David model, as a Rules-Based solution to the confrontation happening in Ukraine.
+
+{{< subscribe email="info@globcent.com" >}}

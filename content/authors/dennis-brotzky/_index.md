@@ -1,7 +1,7 @@
 ---
 title: Mostapha Benhenda
 bio: ''
-avatar: "/images/dennis-brotzky.jpg"
+avatar: "/images/img_20200816_142727_766.jpg"
 featured: false
 social:
 - title: unsplash

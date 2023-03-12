@@ -11,6 +11,8 @@ hero: "/images/putindenazification.webp"
 ---
 Denazification is the main stated mission of the special military operation in Ukraine. The goal is to bring to justice the radical neo-nazis responsible for crimes in Ukraine in the last 8 years:
 
+    {{< youtube 6-Msk4AA79s >}}
+
 However, the exact authority that will judge these crimes is not settled yet. In a [recent interview](https://en.sledcom.ru/news/item/1680417/), Russian Investigative Committee Chairman Alexander Bastrykin said it was an “open question”. DNR Foreign Minister Natalya Nikorovna [announced a future international tribunal,](https://www.kommersant.ru/doc/5356546) still “under preparation”.
 
 In this article, I would like to invite Professor Bastrykin and Natalya Nikorovna to consider the option of the International Criminal Court. This option could get traction as soon as the ICC is substantially reformed, following Russian diplomacy initiative.

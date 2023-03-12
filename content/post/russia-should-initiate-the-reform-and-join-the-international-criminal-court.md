@@ -6,7 +6,7 @@ title: Russia should initiate the reform - and join - the International Criminal
 excerpt: International justice can be instrumental to rebuild ties between Russia,
   Ukraine, the West and the Rest
 date: 2022-05-21T22:00:00.000+00:00
-hero: "/images/putindenazification.webp"
+hero: "/images/trainin.webp"
 
 ---
 Denazification is the main stated mission of the special military operation in Ukraine. The goal is to bring to justice the radical neo-nazis responsible for crimes in Ukraine in the last 8 years:

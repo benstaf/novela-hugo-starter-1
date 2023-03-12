@@ -6,7 +6,6 @@ excerpt: International justice can be instrumental to rebuild ties between Russi
   Ukraine, the West and the Rest
 date: 2022-05-21T22:00:00+00:00
 hero: "/images/putindenazification.webp"
-draft: true
 
 ---
 Denazification is the main stated mission of the Russian special military operation in Ukraine:

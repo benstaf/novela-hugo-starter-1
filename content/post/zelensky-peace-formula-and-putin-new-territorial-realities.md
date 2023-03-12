@@ -1,6 +1,7 @@
 ---
 timeToRead: 0
-authors: mostapha
+authors: 
+- Dennis Brotzky
 title: Zelensky Peace Formula and Putin New Territorial Realities
 excerpt: It’s possible to negotiate a hybrid solution combining Zelensky’s “peace
   formula” with Putin’s “new territorial realities”

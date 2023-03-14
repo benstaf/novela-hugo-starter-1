@@ -82,7 +82,7 @@ The American approach to technology remain very local and territorial. For examp
 
 On the other hand, the Chinese approach is more **scalable**. It can leverage various silk roads to find the next big thing, even deep into the African continent, like AliBaba founder Jack Ma did in his Africa’s Business Heroes show:
 
-{{< youtube sUrQ46bHrGU >}}
+{{< youtube VjNEeHkpQ3o >}}
 
 In an industry like precision oncology, being more **inclusive** can provide a competitive advantage over American elitism, because patient enrollment is often the bottleneck that slows down clinical research.
 

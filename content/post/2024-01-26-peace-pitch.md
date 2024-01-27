@@ -4,7 +4,7 @@ authors:
 - Dennis Brotzky
 title: Peace Pitch Challenge - Solutions for Israel at War
 excerpt: Embrace the opportunity to present your innovative peace solutions or policy recommendations for Israel at war, in this Peace Pitch Battle!
-date: 2024-01-27T23:00:00.000+00:00
+date: 2024-01-26T23:00:00.000+00:00
 hero: "/images/peacepitch.jpg"
 
 ---

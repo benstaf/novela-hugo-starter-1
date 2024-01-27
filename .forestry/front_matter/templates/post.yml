@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/2024-01-26-Peace-Pitch.md
 - content/post/russia-should-initiate-the-reform-and-join-the-international-criminal-court.md
 - content/post/security-guarantees-for-ukraine-and-russia-the-camp-david-model.md
 - content/post/zelensky-peace-formula-and-putin-new-territorial-realities.md

@@ -18,4 +18,5 @@ hero: "/images/peacepitch.jpg"
 🌐 Join as a participant, reviewer, or simply attend online or in-person. [Fill the form here](https://forms.gle/BaWaGLTKez1trs9s8)
 
 🏆 Stand a chance to be a finalist and pitch your solutions live in Tel Aviv! Seize the moment to contribute to lasting peace in the region.
+
 {{< subscribe email="info@globcent.com" >}}
